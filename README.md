@@ -13,7 +13,7 @@ README
 
   ``` -Right-Click to Interviewetst -> Run As -> Maven Build...	 ```
 	
-  ``` -In the window in "Goals" it must be writted "install" 	 ```
+  ``` -In the window in "Goals" it must be written "install" 	 ```
 	
   ``` -After that run must be clicked. ```
 	
