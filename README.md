@@ -32,6 +32,11 @@ From cmd to run:
 
 In this case **Example1** is the file that is going to be ran.
 
+### Available Operations:
+```add``` 
+```multiply``` 
+```divide```
+```subtract```
 ## Test Cases:
 
 The test cases could be found under
