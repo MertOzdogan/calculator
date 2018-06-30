@@ -39,7 +39,6 @@ public class CalculatorService
             && this.operationValidityCheck( this.operationInList ) )
       {
          this.calculator = new Calculator( this.operationInList );
-         this.calculator.doCalculate();
       }
       else
       {
