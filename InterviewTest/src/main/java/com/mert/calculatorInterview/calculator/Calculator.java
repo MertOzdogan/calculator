@@ -100,7 +100,7 @@ public class Calculator
                case "divide":
                   this.mainResult = this.runOperation( this.divide, this.mainResult, number );
                   break;
-               case "substract":
+               case "subtract":
                   this.mainResult =
                   this.runOperation( this.subtraction, this.mainResult, number );
                   break;
